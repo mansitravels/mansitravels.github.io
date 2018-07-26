@@ -1,0 +1,13 @@
+{
+    "name": "uttam shah",
+    "short_name": "uttam shah",
+    "icons": [
+      {
+        "src": "assets/logo.png",
+        "sizes": "192x192",
+        "type": "image\/png"
+      }
+    ],
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest"
+  }
